@@ -1,0 +1,18 @@
+.CardStar {
+    position: relative;
+    background-position: center center;
+    background-size: cover;
+    width: 98px;
+    height: 138px;
+}
+
+.CardStar-Title {
+    position:absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 3px 10px;
+    background-color: rgba(0, 0, 0, .5);
+    color: white;
+    font-size: 12px;
+}
