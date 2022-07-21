@@ -1,0 +1,14 @@
+.CaptionText {
+    padding: 5px;
+    display: flex;
+}
+
+.CaptionText-Caption {
+    font-size: 16px;
+    font-weight: bold;
+    width: 100px;
+}
+
+.CaptionText-Text {
+    font-size: 16px;
+}
