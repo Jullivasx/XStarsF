@@ -1,0 +1,43 @@
+.ViewStar-Row {
+    display: flex;
+}
+
+.ViewStar-Col {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.ViewStar-Image {
+    padding: 10px;
+}
+
+.ViewStar-Info {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+
+.ViewStar-TitleName {
+    font-size: 32px;
+}
+
+.ViewStar-TitleAlias {
+    font-size: 16px;
+}
+.ViewStar-TitleRole {
+    font-size: 18px;
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 292px;
+}
+
+.ViewStar-ListVideo {
+    display: flex;
+    flex-direction: row;
+}
+
+.ViewStar-ListVideo >div {
+    margin: 5px;
+}
