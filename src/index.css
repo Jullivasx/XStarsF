@@ -1,5 +1,7 @@
 *{
     font-family: Arial, Helvetica, sans-serif;
-    --caption-link-color: red;
+    --caption-link-color: #EC567C;
     --text-title-color: #363636;
+    --text-lite-color: #707070;
+    --accent-color: #EC567C;
 }
