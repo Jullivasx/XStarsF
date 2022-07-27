@@ -1,0 +1,9 @@
+.CardVideoAdd {
+    position: relative;
+    width: 292px;
+    height: 225px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+}
